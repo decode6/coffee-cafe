@@ -47,13 +47,7 @@ const Footer = () => {
               Crafted Coffee, Cozy Vibes, Unforgettable Moments – Your Perfect
               Espresso Escape
             </p>
-            <a
-              href="https://www.youtube.com/channel/UC1H-a1MKEFXRiFlGNLcy7gQ"
-              target="_blank"
-              className="inline-block bg-[#3d2517] py-2 px-4 mt-5 text-sm rounded-full"
-            >
-              Visit our YouTube Channel
-            </a>
+          
           </div>
 
           {/* Footer links */}
@@ -100,7 +94,7 @@ const Footer = () => {
                 Address
               </h1>
               <div>
-                <p className="mb-3">Noida , Uttar Pradesh</p>
+                <p className="mb-3">Bangalore KA</p>
                 <p>+91 1234567890</p>
 
                 {/* social links */}
